@@ -1,0 +1,9 @@
+package com.ingthor.moderate;
+
+public enum Color
+{
+    Red,
+    Green,
+    Blue,
+    Yellow
+}
